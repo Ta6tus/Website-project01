@@ -804,6 +804,7 @@ ul {
 }
 
 .contact-container .social-net i {
+    cursor: pointer;
     margin: 10px;
     font-size: 50px;
     color: #b5db0c;
